@@ -4,6 +4,6 @@ slug  : the-spectrum
 seal  : b62a775678a7a2f3d297c9dde90a3a693ad1ae7fc3fcae84c846e1742dea61b5
 prev  : 0e4a0ad8e4ad536bb31879b1d8dedf9c74366f447b2d1b87f345783ff79a7c85
 link  : 1989a61dd4e3cc878650a73ff86deae7b10ac0e531e66cc9117f91d6edffc642
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
